@@ -63,8 +63,31 @@ Router(dhcp-config)# exit<br>
 ________________________________________
 # Output (Screenshots)
 •	DHCP IP configuration shown in PC0 and PC1<br>
+
+<img width="1366" height="720" alt="Screenshot 2026-10-27 160159" src="https://github.com/user-attachments/assets/f37db139-a78d-4902-b86b-becaf2426fa3" />
+
+<img width="1366" height="720" alt="Screenshot 2026-10-27 160203" src="https://github.com/user-attachments/assets/4f37259d-3393-44b6-a17d-c48365e1a1a4" />
+
+
+
+
 •	Router configuration screen<br>
+
+
+<img width="1366" height="720" alt="Screenshot 2026-10-27 161708" src="https://github.com/user-attachments/assets/31c82016-58c8-45fd-b4b6-caf159cdcb3a" />
+
+
+<img width="1366" height="720" alt="Screenshot 2026-10-27 160219" src="https://github.com/user-attachments/assets/620ae484-5643-4c36-a97d-d8d0d94fd7c9" />
+
+
 •	Successful ping test between the two PCs<br>
+
+<img width="1366" height="720" alt="Screenshot 2026-10-27 160234" src="https://github.com/user-attachments/assets/29321ed0-69fe-42b1-9bbd-6a4608baf6dd" />
+
+<img width="1366" height="720" alt="Screenshot 2026-10-27 160301" src="https://github.com/user-attachments/assets/6758bf7e-05e8-43c9-83b5-098289f4d463" />
+
+
+
 ________________________________________
 # Result
 Successfully configured a DHCP server on the router. PCs were dynamically assigned IP addresses and were able to communicate over the network.
